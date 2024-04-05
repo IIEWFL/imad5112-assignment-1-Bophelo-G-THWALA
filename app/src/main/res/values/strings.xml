@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HistoryAgeCalculatorApp</string>
+    <string name="Title">Welcome to the history Age Calculator</string>
+    <string name="CurrentYear">Enter Current Year</string>
+    <string name="YearofBirth">Enter Year of Birth</string>
+    <string name="AgeResult">AgeResult</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Cancel">Cancel</string>
+</resources>
